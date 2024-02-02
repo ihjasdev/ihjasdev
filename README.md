@@ -1,6 +1,5 @@
 - 👋 Hi, I’m mohamed ihjas
 - 👀 I’m interested in Developing Softwares
-- 🌱 I’m currently learning Bachelor's of Information and Communication Technology Specialized in Software Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
